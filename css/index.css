@@ -1,10 +1,10 @@
 /* Colors - Light theme*/
 :root {
-  --text-color: #333;
-  --title-color: #333;
+  --text-color: #ddd;
+  --title-color: #ddd;
   --muted-text-color: #888;
-  --link-color: #118cc5;
-  --background-color: #fff;
+  --link-color: #fbbf24;
+  --background-color: #000;
   --lightgray: #e0e0e0;
 }
 
@@ -25,12 +25,20 @@ html,
 body {
   padding: 0;
   margin: 0;
-  font-family: 'Source Serif Pro', serif;
+  font-family: "Source Serif Pro", serif;
   font-size: 15px;
   color: var(--text-color);
   background-color: var(--background-color);
 }
-h1, h2, h3, h4, h5, h6, .nav-item, .postlist-item, .post-date {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.nav-item,
+.postlist-item,
+.post-date {
   font-family: "Poppins", -apple-system, system-ui, sans-serif;
   font-weight: 400;
   color: var(--title-color);
@@ -54,7 +62,8 @@ p,
   padding-bottom: 30px;
 }
 
-a[href], a[href]:visited {
+a[href],
+a[href]:visited {
   color: var(--link-color);
   text-decoration: underline;
   text-underline-offset: 1px;
@@ -77,7 +86,8 @@ a[href], a[href]:visited {
     text-transform: uppercase;
     font-family: sans-serif;
   }
-  a:visited, a:hover {
+  a:visited,
+  a:hover {
     text-decoration: none;
   }
 }
@@ -95,7 +105,8 @@ a[href], a[href]:visited {
     text-transform: uppercase;
     font-family: sans-serif;
   }
-  a:visited, a:hover {
+  a:visited,
+  a:hover {
     text-decoration: none;
   }
 }
@@ -106,7 +117,7 @@ main {
 header {
   max-width: 700px;
   margin: 0 auto;
-  padding-top:20px;
+  padding-top: 20px;
 }
 header:after {
   content: "";
@@ -114,17 +125,11 @@ header:after {
   clear: both;
 }
 .banner {
-  .logo {
-    float: left;
-    margin-right: 20px;
-  }
   .banner-image {
-    float:right;
     img {
       height: 90px;
     }
   }
-
 }
 table {
   margin: 1em 0;
@@ -136,7 +141,10 @@ table th {
 
 pre,
 code {
-  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
+  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono",
+    "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
+    "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L",
+    "Courier New", Courier, monospace;
   line-height: 1.5;
 }
 pre {
@@ -155,7 +163,7 @@ pre {
   -ms-hyphens: none;
   hyphens: none;
   padding: 1em;
-  margin: .5em 0;
+  margin: 0.5em 0;
   background-color: #f6f6f6;
 }
 code {
@@ -183,7 +191,7 @@ code {
 }
 .highlight-line-active {
   background-color: #444;
-  background-color: hsla(0, 0%, 27%, .8);
+  background-color: hsla(0, 0%, 27%, 0.8);
 }
 .highlight-line-add {
   background-color: #45844b;
@@ -203,9 +211,10 @@ code {
     float: left;
     margin-right: 20px;
     border-radius: 50%;
-    width:70px
+    width: 70px;
   }
-  a, a:not(:hover) {
+  a,
+  a:not(:hover) {
     text-decoration: none;
   }
 }
@@ -246,7 +255,7 @@ code {
 }
 .postlist-right {
   display: flex;
-  align-items: center; 
+  align-items: center;
 }
 .postlist-tag {
   margin-right: 10px;
@@ -262,7 +271,7 @@ code {
   margin-right: 0.6666666666667em; /* 8px /12 */
 }
 .postlist-link {
-  padding-right: .25em;
+  padding-right: 0.25em;
   text-underline-position: from-font;
   text-underline-offset: 0;
   text-decoration-thickness: 1px;
@@ -275,14 +284,14 @@ code {
   font-weight: 700;
 }
 
-
 .post-date {
   display: block;
   margin: 10px 0;
   font-size: 0.9em;
 }
 
-.post-date, .postlist-date {
+.post-date,
+.postlist-date {
   color: var(--muted-text-color);
 }
 
@@ -300,7 +309,7 @@ code {
   font-family: sans-serif;
   text-decoration: none;
   font-style: normal;
-  margin-left: .1em;
+  margin-left: 0.1em;
 }
 a[href].direct-link,
 a[href].direct-link:visited {
@@ -332,8 +341,8 @@ footer {
   padding-top: 30px;
 }
 
-.columns{
-  display:flex;
+.columns {
+  display: flex;
   align-items: center;
   justify-content: space-between;
 }
@@ -341,29 +350,29 @@ footer {
   width: 100%;
 }
 #drawing-app {
-	border: 1px solid blue;
-	touch-action: none;
+  border: 1px solid blue;
+  touch-action: none;
 }
 #board-controls {
   margin-top: 30px;
-	padding-bottom: 10px;
-	a {
-		font-size: 16px;
-		border: 1px solid blue;
-		padding: 5px;
-		text-decoration: none;
-		margin-right: 30px;
-	}
+  padding-bottom: 10px;
+  a {
+    font-size: 16px;
+    border: 1px solid blue;
+    padding: 5px;
+    text-decoration: none;
+    margin-right: 30px;
+  }
 }
 
 audio {
-	width: 100%;
+  width: 100%;
 }
 
 #clock {
   display: block;
   font-size: 2em;
-  color: black;;
+  color: black;
   border: 1px solid black;
   padding: 10px;
 }
@@ -377,10 +386,11 @@ audio {
     padding: 10px 15px;
     margin-top: 10px;
     cursor: pointer;
-    border: 1px solid orange; 
+    border: 1px solid orange;
   }
-  textarea, .submit-btn {
-    border: 1px solid orange; 
+  textarea,
+  .submit-btn {
+    border: 1px solid orange;
   }
   textarea {
     display: block;
@@ -393,8 +403,9 @@ input:focus {
 }
 
 .cv {
-  p, li {
-    margin:0;
+  p,
+  li {
+    margin: 0;
     font-size: 1em;
   }
   h1 {
@@ -428,19 +439,36 @@ blockquote {
   code {
     background-color: grey;
     color: white;
-    padding:5px;
+    padding: 5px;
   }
 }
 
 #vlog {
-  button { padding: 10px 15px; margin: 5px; cursor: pointer; }
-  #status { margin-top: 15px; font-weight: bold; }
-  #downloadLink { display: none; margin-top: 15px; padding: 10px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 5px; }
-  #preview { transform: scaleX(-1); }
+  button {
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+  }
+  #status {
+    margin-top: 15px;
+    font-weight: bold;
+  }
+  #downloadLink {
+    display: none;
+    margin-top: 15px;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+  #preview {
+    transform: scaleX(-1);
+  }
 }
 
 #read-post {
-  float:right;
+  float: right;
   padding: 5px 10px;
   margin-top: 10px;
   cursor: pointer;
@@ -448,14 +476,36 @@ blockquote {
 }
 
 #notes {
-	#noteTextarea {
-	  width: 100%;
-	  border: 1px solid #ccc;
-	  height: 70px;
-	}
+  #noteTextarea {
+    width: 100%;
+    border: 1px solid #ccc;
+    height: 70px;
+  }
   #previousNotes > div {
     margin: 10px 0;
     padding: 5px;
     border: 1px dotted #ccc;
-  }  
+  }
+}
+
+.tri {
+  font-size: 20em;
+  /*margin-top: -100px;*/
+  animation: rotateGlow 6s ease-in-out infinite;
+  text-align: center;
+}
+@keyframes rotateGlow {
+  0%,
+  100% {
+    filter: drop-shadow(0 0 20px #fbbf24);
+    color: #fbbf24;
+  }
+  33% {
+    filter: drop-shadow(0 0 30px #f97316);
+    color: #f97316;
+  }
+  66% {
+    filter: drop-shadow(0 0 40px #a855f7);
+    color: #d8b4fe;
+  }
 }

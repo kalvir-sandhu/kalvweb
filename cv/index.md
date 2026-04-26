@@ -131,7 +131,7 @@ Built and sold [Goodbits](https://goodbits.io).
 Slack Later - the ability to queue reminders and messages to Slack Channels later.
 
 ### VanRuby 2012 - 2018
-Formed and ran ruby meetup that led to having 80-100 developers meet monthly. That spoke about topics of web development in Ruby and other languages such as JavaScript. 
+Formed and ran ruby meetup that led to having 80-100 developers meet monthly. That spoke about topics of web development in Ruby and other languages such as JavaScript.
 
 ### MailBatch - 2018
 Fast web based Gmail client to work with keyboard shortcuts, snoozing emails to process later.
@@ -152,15 +152,14 @@ Formed and led the FED community across 2000 developers. Led React development, 
 
 Led performance initiatives leading to reduction of all requests to Shopify web and API requests by 300ms.
 
-Consolidated and unified all Shopify Mobile application development into correct business structure and strategy. Including migration to React Native engineering approach. 
+Consolidated and unified all Shopify Mobile application development into correct business structure and strategy. Including migration to React Native engineering approach.
 
-Overhauled all software developer role promotion and growth job matrices. 
+Overhauled all software developer role promotion and growth job matrices.
 
-During pandemic, introduced correct practises for developers to work remotely ensuring they were happy and content working with one another with only Slack and Google Hangouts. 
+During pandemic, introduced correct practises for developers to work remotely ensuring they were happy and content working with one another with only Slack and Google Hangouts.
 
-## 2022 - 2025
+## 2022 - 2026
 Travelling, researching computer science and future innovations for self.
-Designing new software [Nort](/nort) for better capturing of natural landscapes around the world. For spatial visual experiences. To build on any platform that eventually employs and respects me.
 
 # Talks
 1997 - Future of Digital Britain organized by Tomorrows World.
