@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or metadata.title }}</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+    <meta property="og:url" content="{{ page.url | canonical }}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ title or metadata.title }}">
+    <meta property="og:description" content="{{description or metadata.description}}">
+
+    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+    <link rel="stylesheet" href="{{ '/css/prism-base16-monokai.dark.css' | url }}">
+    <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
+    <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+    <link rel="canonical" href="{{ page.url | canonical }}"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <script src="/js/index.js"></script>
+  </head>
+  <body>
+    <header>
+
+      <div class="banner">
+        <div class="logo">
+          <a href="/">
+            <img class="profile-pic" style="" src="/img/profile-pic.avif?me=2">
+            <h1 class="name">
+              K⧋LV
+            </h1>
+          </a>
+          <small>I am the maker of me and I am the maker of music</small>
+        </div>
+        <div class="banner-image">
+          <img src="/img/banner-image.avif?my-bedroom=2">
+        </div>
+      </div>
+
+      <ul class="nav">
+        {%- for entry in collections.all | eleventyNavigation %}
+        <li class="nav-item{% if entry.url == page.url %} nav-item-active{% endif %}">
+          <a href="{{ entry.url | url }}">{{ entry.title }}</a>
+        </li>
+        {%- endfor %}
+      </ul>
+
+      {#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
+    </header>
+
+    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+      {{ content | safe }}
+    </main>
+
+    <footer>
+      <hr>
+      <a href="https://github.com/kalvir781">Github</a>
+      /
+      <a href="https://instagram.com/kalv">Instagram</a>
+      <br>
+      <small>&copy; 2025 Kalvir Sandhu. All rights reserved.</small>
+      <hr>
+    </footer>
+    <script>
+      console.log("The day is August 5th 2025, no one wants to come to my door and employ me at either Apple, Google, BBC, ARM, UBC, Cambridge, Gov.uk, RoyalEnfield, Cadbury, Argos, Currys, Oxford Uni, ECS Southampton, Shopify, Nvidia, United Nations, Nato, US embassy, Facebook, Twitter, Sony, Olympus, Nikon, Teenage Engineering, Roland, Waitrose, Sainsburys, Tesco, Iceland, M&S, at 10:47am GMT, No olivia evans arrival");
+    </script>
+
+  </body>
+</html>
