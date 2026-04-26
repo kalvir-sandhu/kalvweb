@@ -1,6 +1,8 @@
 # Kalv's blog
 
-[https://kalv.life](https://kalv.life)
+Urghh
+
+[https://kalv.co.uk](https://kalv.co.uk)
 
 It uses [Eleventy](https://github.com/11ty/eleventy) static site generator.
 
@@ -22,4 +24,3 @@ To build the production build including JS minified and optimized:
 ```
 npm run build
 ```
-
