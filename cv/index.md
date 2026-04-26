@@ -1,12 +1,12 @@
 ---
 layout: layouts/home.njk
-title: CV
+title: History
 templateClass: tmpl-post
 eleventyNavigation:
-  key: CV
+  key: History
   order: 1
 ---
-# Kalvir Sandhu
+# My History
 
 <div class="cv">
 
