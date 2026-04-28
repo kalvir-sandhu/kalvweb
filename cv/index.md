@@ -1,12 +1,12 @@
 ---
 layout: layouts/home.njk
-title: History
+title: Kalv
 templateClass: tmpl-post
 eleventyNavigation:
-  key: History
+  key: Kalv
   order: 1
 ---
-# History
+# Kalv
 
 <div class="cv">
 
@@ -158,8 +158,8 @@ Overhauled all software developer role promotion and growth job matrices.
 
 During pandemic, introduced correct practises for developers to work remotely ensuring they were happy and content working with one another with only Slack and Google Hangouts.
 
-## 2022 - 2026
-Worked on Self |
+## May 2022 (D6 Parq Hotel) - 2026
+|||
 
 # Talks
 1997 - Future of Digital Britain organized by Tomorrows World.
