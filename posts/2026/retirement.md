@@ -6,6 +6,7 @@ layout: layouts/post.njk
 tags: ["computers"]
 ---
 
+First Published: 29th April 2026 18:00
 Updated: 29th April 2026 18:32
 
 As I prep to retire after a serious ordeal involving an RCMP officer attacking me to steal my torch and headphones in Canada.
