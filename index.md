@@ -19,3 +19,5 @@ Foxes are happy being alone.
 Foxes are intelligent.
 
 Foxes don't give up.
+
+Foxes always roam free and always make it home.
