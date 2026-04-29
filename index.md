@@ -13,3 +13,5 @@ Foxes live in the real world ≈
 Foxes make shit out of junk ø
 
 Foxes do not shy away from a fight however small they are.
+
+Foxes are happy being alone.
