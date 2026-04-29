@@ -15,8 +15,6 @@ The Fox does not dream ⦶
 
 The Fox lives in the real world ≈
 
-The Fox makes something out of nothing ø
-
 The Fox does not shy away from a fight
 
 The Fox is happy being alone
