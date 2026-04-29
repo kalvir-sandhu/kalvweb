@@ -30,3 +30,5 @@ The truth.
 18:44 On Instagram, explore feed being shown sportscars, porsche and aston martins similiar to a porsche I was shown for retirement with a lady in 2011 in Maple Ridge but got told by my x-wife that it's in storage, when I asked later, she told me she didn't know what I was talking about and that I dreamt it. Today I know it was real and it's clear that the UK/Canada do not honour real service men and contributors to their cybsersec, which I've cleared done.
 
 19:20 Same LOOP on Instagram and Google YouTube. Hilarious what the GCHQ/MI5/CSIS services are doing to create trauma but is just making me laugh. Whoever is preventing the delivery of anything to me digitally and in the real world has nothing, can do nothing to me.
+
+19:27 If someone is playing a game, I'm playing a game back, Someone keeps saying "NO", so here is a playlist for [her, the UK and Canada](https://www.youtube.com/playlist?list=PLbwbVT-HHHrMCDxeT62mRLdlj3srg7gad)
