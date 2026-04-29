@@ -15,10 +15,6 @@ The Fox does not dream ⦶
 
 The Fox lives in the real world ≈
 
-The Fox does not shy away from a fight
-
-The Fox is happy being alone
-
 The Fox is intelligent
 
 The Fox does not give up
