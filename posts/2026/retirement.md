@@ -1,5 +1,5 @@
 ---
-title: Retirement
+title: Path to Retirement
 description: Retirement
 date: 2026-04-29
 layout: layouts/post.njk
@@ -7,7 +7,7 @@ tags: ["computers"]
 ---
 
 First Published: 29th April 2026 18:00
-Updated: 30th April 2026 7:20
+Updated: 30th April 2026 11:21
 
 As I prep to retire after a serious ordeal involving an RCMP officer attacking me to steal my torch and headphones in Canada.
 
@@ -15,11 +15,11 @@ I've been thinking about a career change because the work I've done with cyberse
 
 Like with all of these serious roles, they require what the UK/Canada call a clearance lady which i've never had since 1994/2001. So I wait for the public to notice my experience, skills and to message me on these as I feel I'm the only one to do these roles.
 
-- Different Computer Science and company instead of Apple. Microsoft advisor, similiar to Jonny Ive for Apple. To advise on the future of mind safety, brain development for children, return to audio creation and music with perhaps the return of the Zune. *Status*: No message
+- Different Computer Science and company instead of Apple. Microsoft advisor, similiar to Jonny Ive for Apple. To advise on the future of mind safety, brain development for children, return to audio creation and music with perhaps the return of the Zune. *Status*: Never going to work here
 
-- UBC ecology. To study the rise of earthquakes/volcanos/wildfires globally with new sensors, data gathering and global scientists for early warning systems. Investigate the effect of wildfires on soil to harvest crops and whether seed germination is affected. *Status*: No Message
+- UBC ecology. To study the rise of earthquakes/volcanos/wildfires globally with new sensors, data gathering and global scientists for early warning systems. Investigate the effect of wildfires on soil to harvest crops and whether seed germination is affected. *Status*: Never going to work here
 
-- NHS/Hospitals/UBC. Implementing new pyschology/health tools for the mind including a mind clock and early children mind development tools. Soundology to heal bodies and bone injuries. Private offline assistants for counselling. *Status*: No Message
+- NHS/Hospitals/UBC. Implementing new pyschology/health tools for the mind including a mind clock and early children mind development tools. Soundology to heal bodies and bone injuries. Private offline assistants for counselling. *Status*: Never going to work on this.
 
 The truth.
 
@@ -42,3 +42,5 @@ The truth.
 7:42 I have not heard from my kids in 2 years and they never messaged me, when I was forced out of my home and divorced with no hearing, no phone call after being attacked by the RCMP officer and today I got an email from my son, of which I've ignored because this seems 'odd'. Why would my x-wife put my son up to the task to email me after publishing this article, what is she hiding, when she had refused them to stay with me when we were seperated and I was living in a leased clean apartment in Port Moody or staying 5 minutes away from my daughters school in an AirBnB. Am I being attacked by the countries I've served and contributed to. Why? I haven't done anything wrong. I was a great Dad, filmed dance recitals for my daughters dance school, ran a rocket club for my son with his friends, cooked food for them daily.
 
 10:54 Decided to go for a walk to clear my head from the inbound digital trauma being sent to me from the UK and Canada to erase me rather than reach out to me for the jobs of importance that I wanted to contribute to as a good, clean, serving citizen with the service record I have. I was presented with a police car with the sirens on getting to a peaceful location by the river, an ambulance car and a constant barrage of L plate cars as though I should be learning for something, all very confusing. Even a women that said 'get on it' to a baby in her hands pushing a disabled wheelchair to my face as she walked past me after a man with a dog that scratched his face like a dog walked past me to make a point implying I'm a dog. All stupid. I ended up buying a cadbury caramel bar and safely returned home seeing openreach working on lines and a lot of landscaping, constructing companies working around my property.
+
+11:18 To ensure my mind is positive and my private safety of my bedroom and living room feels bright. I created a mind safe visualization on my iPhone and an app that allows to me clear out negative incoming thoughts. It feels great. If the UK and Canada is what this is today, I have to live within it and no longer entertain the notion that I'm able to support myself in retirement waiting for job opportunities or a clearance lady. It's clear that a good man like me with the work i've done is not good enough for receiving awards, medals and reward funds. I am going to focus on myself and no longer wait for the jobs I outlined in this journey.
