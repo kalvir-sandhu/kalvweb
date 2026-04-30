@@ -29,7 +29,7 @@ The truth.
 
 18:35 On Instagram, got a fake heart show up. Showing an 'emma' with tits showing outfits with suggested words for 'body', listen to encourage me to further progress work on healing with soundology I'm guessing. Terrible encouragement from obviously someone that saw this article be posted at 18:00 and then push a button to my account rather than an actual 'clearance lady' giving me access to my funds/medals for my service to the UK/Canada.
 
-18:44 On Instagram, explore feed being shown sportscars, porsche and aston martins similiar to a porsche I was shown for retirement with a lady in 2011 in Maple Ridge but got told by my x-wife that it's in storage, when I asked later, she told me she didn't know what I was talking about and that I dreamt it. Today I know it was real and it's clear that the UK/Canada do not honour real service men and contributors to their cybsersec, which I've cleared done.
+18:44 On Instagram, explore feed being shown sportscars, porsche and aston martins similiar to a porsche I was shown for retirement with a lady in 2011 in Maple Ridge but got told by my x-wife that it's in storage, when I asked later, she told me she didn't know what I was talking about and that I dreamt it. Today I know it was real and it's clear that the UK/Canada do not honour real service men and contributors to their cybsersec, which I've clearly done.
 
 19:20 Same LOOP on Instagram and Google YouTube. Hilarious what the GCHQ/MI5/CSIS services are doing to create trauma but is just making me laugh. Whoever is preventing the delivery of anything to me digitally and in the real world has nothing, can do nothing to me.
 
