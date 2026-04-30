@@ -7,7 +7,7 @@ tags: ["computers"]
 ---
 
 First Published: 29th April 2026 18:00
-Updated: 29th April 2026 19:20
+Updated: 30th April 2026 7:20
 
 As I prep to retire after a serious ordeal involving an RCMP officer attacking me to steal my torch and headphones in Canada.
 
@@ -23,6 +23,8 @@ Like with all of these serious roles, they require what the UK/Canada call a cle
 
 The truth.
 
+29th April 2026
+
 18:32 google youtube confirmed this posting at 18:00 with suggested content in their algorithm that I would get food from Aldi as a delivery to my house, music tastes that should get me excited to work at Microsoft (suggested ads), lava flows to encourage me to start working on UBC role from my bedroom. No Message from anyone real, nothing on Instagram, nothing on LinkedIn, no recruiter. Is this the UK/Canada, is this how Google/Microsoft/UBC get people to work for free and steal their work. Then a suggested yacht that I was interested in purchasing when I was told I'd get access to my Last.fm/CBS stock appeared as a suggested video.
 
 18:35 On Instagram, got a fake heart show up. Showing an 'emma' with tits showing outfits with suggested words for 'body', listen to encourage me to further progress work on healing with soundology I'm guessing. Terrible encouragement from obviously someone that saw this article be posted at 18:00 and then push a button to my account rather than an actual 'clearance lady' giving me access to my funds/medals for my service to the UK/Canada.
@@ -32,3 +34,7 @@ The truth.
 19:20 Same LOOP on Instagram and Google YouTube. Hilarious what the GCHQ/MI5/CSIS services are doing to create trauma but is just making me laugh. Whoever is preventing the delivery of anything to me digitally and in the real world has nothing, can do nothing to me.
 
 19:27 If someone is playing a game, I'm playing a game back, Someone keeps saying "NO", so here is a playlist for [her, the UK and Canada](https://www.youtube.com/playlist?list=PLbwbVT-HHHrMCDxeT62mRLdlj3srg7gad)
+
+30th April 2026
+
+7:20 Surfing, H&M, LG OLED, Adobe Creations being shown as targeted ads on Google YouTube. Nothing new other than sexy looking women on Instagram, no messages. Obvious that either no one is working to head hunt or clear a marine/cybersec officer to work on any of the roles I wanted to do yesterday.
