@@ -38,3 +38,5 @@ The truth.
 30th April 2026
 
 7:20 Surfing, H&M, LG OLED, Adobe Creations being shown as targeted ads on Google YouTube. Nothing new other than sexy looking women on Instagram, no messages. Obvious that either no one is working to head hunt or clear a marine/cybersec officer to work on any of the roles I wanted to do yesterday.
+
+7:42 I have not heard from my kids in 2 years and they never messaged me, when I was forced out of my home and divorced with no hearing, no phone call after being attacked by the RCMP officer and today I got an email from my son, of which I've ignored because this seems 'odd'. Why would my x-wife put my son up to the task to email me after publishing this article, what is she hiding, when she had refused them to stay with me when we were seperated and I was living in a leased clean apartment in Port Moody or staying 5 minutes away from my daughters school in an AirBnB. Am I being attacked by the countries I've served and contributed to. Why? I haven't done anything wrong. I was a great Dad, filmed dance recitals for my daughters dance school, ran a rocket club for my son with his friends, cooked food for them daily.
