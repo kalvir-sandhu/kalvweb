@@ -6,7 +6,7 @@ eleventyNavigation:
   key: Kalv
   order: 1
 ---
-# Kalv
+# I am Kalvir Sandhu
 
 <div class="cv">
 
@@ -174,14 +174,3 @@ During pandemic, introduced correct practises for developers to work remotely en
 
 Feb 2018 - VanRuby - [Deploying ActionCable](https://www.youtube.com/watch?v=v2uaY9qTSsI) - Implementing realtime web in Rails 5.0
 Hack the Entreprenuer - [Breaking out of your comfort Zone](https://hacktheentrepreneur.com/podcast/kalvir-sandhu/) - podcast episode discussing forming businesses
-
-### Solo Field Service Record / Cybersec
-(working on my autobiography)
-2001 Afgan 2001, extracted 3 embassies, UK, Canada, USA
-2002 Cleared out a Thailand beach town from U pirates
-2004 Assisted CIA with distributed messaging protocol to find Osama Bin Laden
-2005 Prevented unknown last 7/7 bomb
-2005 Took out Yakuza in Tokyo
----- Defused and neutralized milan shopping mall bomb, paris bomb
-All Tech work from 1994 to 2022 contributing to Cybersec of the UK/Canada/USA
-Reward: Nothing.
