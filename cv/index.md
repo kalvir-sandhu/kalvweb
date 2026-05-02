@@ -184,5 +184,7 @@ Hack the Entreprenuer - [Breaking out of your comfort Zone](https://hacktheentre
 2005 Took out Yakuza in Tokyo
 ---- Defused and neutralized milan shopping mall bomb, paris bomb
 All Tech work from 1994 to 2022 contributing to Cybersec of the UK/Canada/USA
-2022 Investigate issues with women's brains across UK/USA/Canada
-Reward: Nothing.
+Reward so far: Nothing.
+
+### Ongoing work
+2022 Activated by Olivia Evans. To investigate issues with women's brains across UK/USA/Canada.
