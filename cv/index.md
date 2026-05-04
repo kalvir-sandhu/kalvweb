@@ -158,9 +158,6 @@ Overhauled all software developer role promotion and growth job matrices.
 
 During pandemic, introduced correct practises for developers to work remotely ensuring they were happy and content working with one another with only Slack and Google Hangouts.
 
-## May 2022 (D6 Parq Hotel) - 2026
-|||
-
 # Talks
 1997 - Future of Digital Britain organized by Tomorrows World.
 2008 - Barcamp London - Multiple talks including RFID tracking, won a free iPod Shuffle.
