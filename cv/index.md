@@ -171,3 +171,8 @@ During pandemic, introduced correct practises for developers to work remotely en
 
 Feb 2018 - VanRuby - [Deploying ActionCable](https://www.youtube.com/watch?v=v2uaY9qTSsI) - Implementing realtime web in Rails 5.0
 Hack the Entreprenuer - [Breaking out of your comfort Zone](https://hacktheentrepreneur.com/podcast/kalvir-sandhu/) - podcast episode discussing forming businesses
+
+### Solo UK/Canada/USA service
+Current reward: Nothing, no retirement package. Actually an RCMP attack to steal a torch and headphones. Refused access to my stock (Last.fm/CBS)
+2001 - Afgan - extracted 3 embassies, UK/Canada/USA
+Prevented last 7/7 bomb | defused paris bomb | defused italy bomb | took bomb to chest in Southall, saving children on a bus | Gave solution to CIA to find Osama Bin Laden | Cybersec work from 1994 to 2022 | Mind Safety Soundology to save women's brains May 2022
