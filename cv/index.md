@@ -8,6 +8,8 @@ eleventyNavigation:
 ---
 # Kalv
 
+My record of achievement that literally the world has stolen and wants to give to other men for 'story' at night paradise clubs. To win women and sex.
+
 <div class="cv">
 
 # United Kingdom
