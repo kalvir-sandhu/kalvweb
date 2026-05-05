@@ -3,7 +3,6 @@ title: My Life & Truth
 description: My Life & truth
 date: 2026-05-05
 layout: layouts/post.njk
-tags: ["computers"]
 ---
 
 I might as well be dead to the UK, Canada, USA. But they can't seem to do it.
