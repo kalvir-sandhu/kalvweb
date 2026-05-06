@@ -158,8 +158,8 @@ Overhauled all software developer role promotion and growth job matrices.
 
 During pandemic, introduced correct practises for developers to work remotely ensuring they were happy and content working with one another with only Slack and Google Hangouts.
 
-### May 2022 D6 Parq Hotel
-Solo UK, Canada Work.
+### May 2022 D6 Parq Hotel - May 2026
+Working in private on a unique brain clock, combining the sun, moon and planetary alignments. A mind clock that allows for unique joy, creativity, innovation as first planetary clocks were used by ancient greeks. Sun/Moon inspired by Aztecs and their temples.
 
 # Talks
 1997 - Future of Digital Britain organized by Tomorrows World.
