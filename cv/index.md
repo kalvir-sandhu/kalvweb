@@ -3,7 +3,7 @@ layout: layouts/home.njk
 title: Kalv
 templateClass: tmpl-post
 eleventyNavigation:
-  key: Kalv
+  key: Me
   order: 1
 ---
 # Kalv
