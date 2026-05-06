@@ -158,6 +158,9 @@ Overhauled all software developer role promotion and growth job matrices.
 
 During pandemic, introduced correct practises for developers to work remotely ensuring they were happy and content working with one another with only Slack and Google Hangouts.
 
+### May 2022 D6 Parq Hotel - May 2026
+Activated to investigate issues with women's brains and brain development by CSIS, UK and Canada Government. Led to being attacked by RCMP officer with illegal weapons and stealing of my torch and headphones. Cancellation of my life, friends, identity. All reported to Guardian Securedrop, FBI, Lamy whistleblowing, leading to no one coming to my aid. I asked questions about my service in Afgan 2001 that led to extracting of 3 embassies in 2001 wanting my retirement.
+
 # Talks
 1997 - Future of Digital Britain organized by Tomorrows World.
 2008 - Barcamp London - Multiple talks including RFID tracking, won a free iPod Shuffle.
