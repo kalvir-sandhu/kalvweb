@@ -1,20 +1,20 @@
 ---
 title: Apple Company Plan
 description: Review of Apple and it's technology
-date: 2026-01-21
+date: 2026-04-08
 layout: layouts/post.njk
 tags: ["computers"]
 ---
 
-My review of Apple between Nov 2023 and the end of 2025 and what I would flourish with fun.
+My review of Apple between Nov 2023 and today and what I would love to flourish with fun.
 
-If I were to work there, my theme would be finding fun to florish in all their products, software and hardware. I loved the look of the swanky new Battersea London offices.
+If I were to work there, my theme would be finding fun to florish in all their products, software and hardware.
 
-I would've loved to walk the floor and just jump into any of the departments to investigate their great work and level it up with years of computer science knowledge. So i went ahead and explored this concept by reviewing a number of their products over the last 3 years.
+I would love to walk the floor and just jump into any of the departments to investigate their great work and level it up with my years of computer science knowledge. So i went ahead and explored this concept by reviewing a number of their products over the last 3 years.
 
 If I were to be in their offices, I would speak to literally everyone just like Steve Jobs/Wozniak did but not get frustrated with slow progress and work to enable those that struggle to understand the momentum that others take to go, taking learnings I've had with working with Tobias Lutke the CEO of Shopify.
 
-I first wrote a draft of these concepts in Puerto Escodido in Nov 2023 whilst training my body and mind with star theory. I believe what I wrote is still the future and I’d like to start contributing to this work as soon as I can.
+I first wrote a draft of these concepts in Puerto Escodido in Nov 2023 whilst training my body and mind with water chi theory. I believe what I wrote is still the future and I’d like to start contributing to this work as soon as I can.
 
 # Private AI search index
 Creating a local neural network to index a private AI engine to answer questions on content that is indexed from the web or data sources freely available. Such that every family has their own private AI engine. Think of it as a ChatGPT for every household concepts like:

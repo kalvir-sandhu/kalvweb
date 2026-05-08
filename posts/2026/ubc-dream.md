@@ -1,13 +1,13 @@
 ---
 title: UBC Dream
 description: I want to work at UBC
-date: 2026-04-24
+date: 2026-05-08
 layout: layouts/post.njk
 ---
 
-I want to work at UBC one day. I admired and loved the campus and the students that were there. If I was to start there today, at [UBC](https://www.ubc.ca), I would do the following.
+I wish I could work at UBC one day. I admired and loved the campus and the students that were there. If I was to start there this weekend, at [UBC](https://www.ubc.ca), I would do the following.
 
-All students/professors were to get a personal mind clock that runs on an android/iphone that helps focus the brain for creativity/innovation/complex science for Good. Would be an enroll gift and access to it to install and use.
+All students/professors would get a personal mind clock that runs on an android or iphone that helps focus the brain for creativity/innovation/complex science for Good. Would be an enroll gift and access to it to install and use. I have been investigating different forms of mind safety using the sun, moon and the planets.
 
 Ecology - sound of life. Wanted to continue the research from [Karen Bakker](https://www.amazon.co.uk/Sounds-Life-Digital-Technology-Bringing/dp/0691206287) to better understand the sounds of life and how we can better nuture it and assist the preservation of farming, food and our lovely forests. Reducing wildfires and perhaps even better undestanding tectonic plate movements to predict severe earthquakes and volcanos, to give warning and country emergency planning.
 

@@ -15,4 +15,6 @@ In the past a number of methods have worked such as:
 
 Today I use [Deltos](/deltos), a private one page operating system that creates a unique sound sequence to calm and focus the mind. I have yet to publish it.
 
+Update May 2026: Deltos is no longer public.
+
 Music resonation that is random and unique, helps calm the mind. On Deltos there are dots and lines to help create a unique visualization that removes the distractions in the brain. I have your notes un-ordered in time, making you use your eyes and brain to think about what you've written and when. Focussing on a visualization of a photo themes your mind with a window image, like the original idea of wallpaper pictures for computers such as Apple and Microsoft.
