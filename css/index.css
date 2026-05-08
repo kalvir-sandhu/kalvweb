@@ -1,0 +1,144 @@
+:root {
+  --text-color: #9aa5ce;
+  --link-color: #c0caf5;
+  --title-color: #c0caf5;
+  --background-color: #1a1b26;
+  --font-size: 1.1em;
+}
+
+/* Global stylesheet */
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 10px;
+  margin: 0;
+  font-family: sans-serif;
+  font-size: var(--font-size);
+  font-weight: 300;
+  color: var(--text-color);
+  background-color: var(--background-color);
+  max-width: 800px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--title-color);
+}
+
+a, a:visited, a:hover {
+  color: var(--link-color);
+}
+
+header img {
+  /*width: 100px;*/
+  height: 100px;
+  float: left;
+  margin-right: 20px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+header a {
+  text-decoration: none;
+}
+
+footer {
+  margin-top: 20px;
+  a {
+    text-transform: uppercase;
+  }
+w}
+
+#post {
+  img {
+    width: 100%;
+  }
+  .columns {
+    margin: 30px 0;
+  }
+}
+
+.postlist-entry {
+  margin: 10px 0;
+}
+
+#deltos {
+  ul, li {
+    font-size: 0.9em;
+  }
+  #dotCanvas {
+    float:right;
+    width: 200px;
+  }
+  #window {
+    margin: 10px;
+    float:right;
+    font-family: courier;
+    text-align:center;
+    font-size: 0.8em;
+    #imageWindow {
+      width: 100px;
+      height: 100px;
+      border: 1px solid #ccc;
+    }
+}
+}
+
+#notes {
+  textarea {
+    background-color: var(--background-color);
+    width: 100%;
+    height: 4em;
+    color: var(--text-color);
+    font-size: var(--font-size);
+    padding: 10px;
+  }
+
+  div {
+    margin-bottom: 10px;
+  }
+  div:first-letter {
+    background-color: var(--text-color);
+    color: var(--background-color)
+  }
+}
+
+
+#black-box {
+  display: none;
+}
+#dot-to-dot {
+  display: none;
+}
+
+#me {
+  video {
+    width: 720px;
+  }
+}
+
+.landing-page-me {
+  margin-bottom: 20px;
+}
+#canvasContainer {
+    border: 2px solid #333;
+    background-color: #fff;
+    margin-top: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+#sunCanvas {
+    display: block; /* Removes any default spacing below the canvas */
+}
+#info {
+    margin-bottom: 20px;
+    text-align: center;
+}
+.status {
+    padding: 10px;
+    border-radius: 5px;
+}
+.above { background-color: #e6ffe6; color: #006400; font-weight: bold; }
+.below { background-color: #ffe6e6; color: #8b0000; font-weight: bold; }
+.peak { background-color: #ffffe0; color: #ff8c00; font-weight: bold; }

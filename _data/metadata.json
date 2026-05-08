@@ -1,0 +1,20 @@
+{
+  "title": "Kalv",
+  "url": "https://kalv.co.uk/",
+  "language": "en",
+  "description": "Kalv Sandhu on the internet ",
+  "feed": {
+    "subtitle": "Kalv Sandhu on the internet.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://kalv.co.uk/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://kalv.co.uk/feed/feed.json"
+  },
+  "author": {
+    "name": "Kalvir Sandhu",
+    "url": "https://kalv.co.uk/"
+  }
+}

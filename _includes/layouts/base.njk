@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title or metadata.title }}</title>
+    <meta name="description" content="{{ description or metadata.description }}">
+
+    <link rel="stylesheet" href="{{ '/css/index.css' | url }}">
+    <script src="/js/index.js"></script>
+  </head>
+  <body>
+    <div>
+      <header>
+        <img id='profile-pic' src="">
+        <a href="/">
+          <h1>
+            ⧋ ⦶ Kalv
+          </h2>
+        </a>
+        <small>Maker of me</small><br>
+      </header>
+
+      <p>
+        // <a href="/">Home</a>
+        {%- for entry in collections.all | eleventyNavigation %}
+          // <a href="{{ entry.url | url }}">{{ entry.title }}</a>
+        {%- endfor %}
+      </p>
+
+      <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+        {{ content | safe }}
+      </main>
+
+      <footer>
+        <hr>
+        <a href="https://github.com/kalvir-sandhu">Github</a>
+        /
+        <a href="https://www.linkedin.com/in/kalvir-sandhu">LinkedIn</a>
+        /
+        <a href="https://instagram.com/kalvirs32">Instagram</a>
+        <br>
+        <small>&copy; 2026 Kalvir Sandhu. All rights reserved.</small>
+        <hr>
+      </footer>
+    </div>
+
+  </body>
+</html>
