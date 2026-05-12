@@ -136,14 +136,16 @@ Built and sold [Goodbits](https://goodbits.io).
 
 Slack Later - the ability to queue reminders and messages to Slack Channels later.
 
+### IQMetrix - 2018
+Interim CTO. Led 100s of developers on Microsoft technical infrastructure for largest mobile phone POS in the USA.
+
 ### VanRuby 2012 - 2018
 Formed and ran ruby meetup that led to having 80-100 developers meet monthly. That spoke about topics of web development in Ruby and other languages such as JavaScript.
 
-### MailBatch - 2018
-Fast web based Gmail client to work with keyboard shortcuts, snoozing emails to process later.
-
-### Headphones.com - 2018
-Assisted great founder and team to re-construct [Headhphones.com](https://headphones.com) for Shopify.
+### Assorted projects - 2018
+MailBatch - 2018 - Fast web based Gmail client to work with keyboard shortcuts, snoozing emails to process later.
+Headphones.com - 2018 - Assisted team to re-construct [Headhphones.com](https://headphones.com) on Shopify.
+XM developments New Zealand - Consulted and advised technical stragey of products and business in Auckland.
 
 ### Holopod - 2018
 Solo designed and constructued [Holopod](http://holopod.com) - MacOS client With facial recognition ML to set a 'making coffee' status to update in Slack for the future of remote workers.
