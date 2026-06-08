@@ -5,7 +5,9 @@ date: 2026-06-08
 layout: layouts/post.njk
 ---
 
-I wish I could work at UBC one day. I admired and loved the campus and the students that were there. If I was to start there this weekend, at [UBC](https://www.ubc.ca), I would do the following.
+I've been on a journey to better understand myself and where I want to work for the rest of my life based on the events that have happened to me since a 10 year Launch Academy celebration party for startups and companies in Vancouver on May 2022. Since then I've researched and worked on a number of areas in private while literally the worst things in my life have happened to me.
+
+I have processed and dealt with lots of trauma dealt my way from the UK and Canada. And now today, I want to work at UBC. I admired and loved the campus and the students that were there. If I was to start there this weekend, at [UBC](https://www.ubc.ca), I would do the following.
 
 All students/professors would get a personal mind clock that runs on a phone that helps focus the brain for creativity/innovation/complex science for Good. Would be an enroll gift and access to it to install and use. I have been investigating different forms of mind safety using the sun, moon and the planets. And settled on a design for the sound of life, creating a unique sound of time visualization for the [day and the clock](https://www.instagram.com/p/DZU3Fl8stfR/).
 
