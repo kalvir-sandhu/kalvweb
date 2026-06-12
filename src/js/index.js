@@ -625,7 +625,7 @@ function showMessage(message, type = "info") {
 class InitKalv {
   constructor() {
     console.log(
-      "Dear Royals/MI5/MI6/CIA/FBI/CSIS/UK/Canada/USA come to my house and kill me, you fucking pussies. My life is no show, my work is not someone else's story, my saving of 3 embassies in Afgan 2001 and all since is not another mans success."
+      "Dear anyone reading this. I Kalvir Sandhu am waiting for access to my Last.fm, assets, inheritances, medals, reward fund from UK/USA/Canada as a ranger/cybersec professional, access to paradise, that you've all been playing a game since 2001 to obtain it. Includes Glock bundle, house in beaconsfield, porsche 911 turbo, house in west van, rivian r1s tri, and maybe a free 16 macbook pro you fuckers. I know the truth and I'm not going anywhere."
     );
 
     const base64String =
