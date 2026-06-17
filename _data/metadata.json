@@ -1,13 +1,13 @@
 {
-  "title": "Kalv",
-  "url": "https://kalv.co.uk/",
+  "title": "Kalvir Sandhu",
+  "url": "https://kalvir-sandhu.github.io/kalvweb/",
   "language": "en",
-  "description": "Kalv Sandhu on the internet ",
+  "description": "Kalvir Sandhu on the internet ",
   "feed": {
-    "subtitle": "Kalv Sandhu on the internet.",
+    "subtitle": "Kalvir Sandhu on the internet.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://kalv.co.uk/"
+    "id": "https://kalvir-sandhu.github.io/kalvweb/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
