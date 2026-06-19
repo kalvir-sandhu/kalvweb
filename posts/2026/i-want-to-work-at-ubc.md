@@ -1,11 +1,9 @@
 ---
-title: Saving the World
-description: Saving the World
+title: I want to work at UBC
+description: I want to work at UBC
 date: 2026-06-19
 layout: layouts/post.njk
 ---
-
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4jzK6Ey84SAexMK5C2JWKx?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 I want to contribute to saving the beautiful world we appreciate and walk around daily.
 
@@ -33,3 +31,5 @@ The device would be constructed around the following design thoughts:
 - This exploration of micro-front creation devices to rapidly change the pressure in a small scale climate can then be used for other applications to adapt the environment and the weather.
 
 So much more I want to do, but this would get me get started on what I wanted to truly do in my life since I was born and loved forests, almost attracted to them as my home.
+
+⧋ +47.68 ⦶ +46.08
