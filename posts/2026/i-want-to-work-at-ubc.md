@@ -30,4 +30,4 @@ The device would be constructed around the following design thoughts:
 
 So much more I want to do, but this would get me get started on what I wanted to truly do in my life since I was born and loved forests, almost attracted to them as my home.
 
-⧋ +47.68 ⦶ +46.08
+≈ 18:50
