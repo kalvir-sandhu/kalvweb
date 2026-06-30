@@ -164,11 +164,8 @@ Overhauled all software developer role promotion and growth job matrices.
 
 During pandemic, introduced correct practises for developers to work remotely ensuring they were happy and content working with one another with only Slack and Google Hangouts.
 
-## 2022 - 2025
-Completed traveling, researching computer science and future innovations for self and ecology - [shared pubicly](/posts/2026/2025-work/)
-
-## 2026
-Healing from trauma.
+## 2022 - 2026
+Completed traveling, researching computer science and future innovations for self and ecology - [shared publicly](/posts/2026/2025-work/)
 
 # Talks
 1997 - Future of Digital Britain organized by Tomorrows World.
